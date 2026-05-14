@@ -7,13 +7,21 @@
 [![React](https://img.shields.io/badge/React-18-blue)](https://react.dev/)
 [![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq-orange)](https://groq.com/)
 
-**Live Demo**: [chapterai.vercel.app](https://chapterai.vercel.app) &nbsp;·&nbsp; **Author**: [Abhinav Walde](https://github.com/abhinavwalde)
+**Author**: [Abhinav Walde](https://github.com/abhinavwalde)
 
 ---
 
 ## 💡 Motivation
 
 YouTube videos rarely come with proper chapters, making it frustrating to navigate long-form content. I built ChapterAI to solve this — it analyzes a video's transcript using an LLM to detect genuine topic shifts, then generates accurate timestamped chapters automatically. No manual effort, no guessing.
+
+---
+## 📷 Screenshots
+
+<img width="1919" height="878" alt="Screenshot 2026-05-14 230304" src="https://github.com/user-attachments/assets/3c6ae1c6-ed31-44e0-a28a-828dd11f1e74" />
+
+<img width="1919" height="874" alt="Screenshot 2026-05-14 230141" src="https://github.com/user-attachments/assets/5165669b-e790-4a6a-8539-1c2b28ab64c1" />
+
 
 ---
 
